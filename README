@@ -15,7 +15,7 @@ Usage:
 		configure_option   option to pass to subordinate configure
 		                   scripts (e.g., --enable-64bit)
 
-	Default is to create a Tclkit from Tcl version 8.6.1
+	Default is to create a Tclkit from Tcl version 8.6.13
 
 Examples:
 	1. Create a Tclkit:
