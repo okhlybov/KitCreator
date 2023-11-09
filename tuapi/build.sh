@@ -2,9 +2,9 @@
 
 # BuildCompatible: KitCreator
 
-version='0.6'
+version='0.12'
 url="http://rkeene.org/devel/tuapi-${version}.tar.gz"
-sha256='9e5d8cac9a6962b8afe9f88a0aa44303abbbfc5c0980d27ff7c0351a9c297d0b'
+sha256='dec1017e016c2ac2b0cea361a9556ea195b0c7f3c3c1765cdc95f1e422ee7d25'
 
 function configure() {
 	:
