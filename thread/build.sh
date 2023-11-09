@@ -11,7 +11,7 @@ if [ -z "${TCLVERS}" ]; then
 	exit 1
 fi
 
-THREADVERS="2.7.2"
+THREADVERS="2.8.8"
 SRC="src/thread-${THREADVERS}.tar.gz"
 SRCURL="http://sourceforge.net/projects/tcl/files/Thread%20Extension/${THREADVERS}/thread${THREADVERS}.tar.gz/download"
 SRCHASH='-'
