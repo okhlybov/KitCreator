@@ -2,9 +2,9 @@
 
 # BuildCompatible: KitCreator
 
-version="0.4.0"
+version="0.4.2"
 url="https://github.com/ray2501/tcl-lmdb/archive/${version}.tar.gz"
-sha256='d19a19376da6716a1ed159a918e631030491f8b6a4ef9e72a4221481b24b2e40'
+sha256='2b9132e2a049a93d731c8de7806924d55bc41bc7438db2dc727a8f79459cb13d'
 
 function postinstall() {
 	local name
